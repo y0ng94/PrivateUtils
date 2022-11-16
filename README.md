@@ -19,7 +19,7 @@
 - 'yn.util.LogUtil'                   : slf4j, Log library
 - 'yn.util.TablePrinterUtil'          : Jdk 1.8
 
-## Code Explaination
+## Code Description
 - 'yn.minor.module.ConnectionPool'    : Database 커넥션 풀을 Pure Java 모듈에서 관리 유틸리티
 - 'yn.minor.util.CommonUtil'          : 공통적으로 사용 가능한 유틸리티
 - 'yn.minor.util.Config'              : Pure Java 모듈에서 Property를 로드 및 관리하기 위한 유틸리티

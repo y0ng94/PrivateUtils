@@ -8,6 +8,7 @@
 - `target`  : Maven 플러그인과 소스를 컴파일한 Class 파일을 관리하는 디렉토리
 
 ## Dependency Management
+
 - 'yn.minor.module.ConnectionPool'    : Jdk 1.6, Jdbc driver
 - 'yn.minor.util.CommonUtil'          : Jdk 1.6
 - 'yn.minor.util.Config'              : Jdk 1.6
@@ -20,6 +21,7 @@
 - 'yn.util.TablePrinterUtil'          : Jdk 1.8
 
 ## Code Description
+
 - 'yn.minor.module.ConnectionPool'    : Database 커넥션 풀을 Pure Java 모듈에서 관리 유틸리티
 - 'yn.minor.util.CommonUtil'          : 공통적으로 사용 가능한 유틸리티
 - 'yn.minor.util.Config'              : Pure Java 모듈에서 Property를 로드 및 관리하기 위한 유틸리티
